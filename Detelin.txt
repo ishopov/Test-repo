@@ -1,0 +1,4 @@
+Name: Detelin	
+City: Pleven
+Interests: Vacations and travel
+Why am I in SoftUni? Wanna fix all bugs in Google ;)
