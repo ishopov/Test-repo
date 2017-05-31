@@ -5,3 +5,4 @@ Why did I pick SoftUni? 	Because I want to become a C# Wizard!
 
 
 This text is changed with TortoiseGit!
+This text is written online.
