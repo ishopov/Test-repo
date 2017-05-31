@@ -10,7 +10,7 @@ namespace PhotoGalleryForGitHubTests
     {
         static void Main(string[] args)
         {
-            //File Name
+            //File Name/Number
             var photoName = int.Parse(Console.ReadLine());
             //Date
             var date = int.Parse(Console.ReadLine());
@@ -19,7 +19,7 @@ namespace PhotoGalleryForGitHubTests
             //Time
             var hour = int.Parse(Console.ReadLine());
             var minutes = int.Parse(Console.ReadLine());
-            //Size
+            //File Size
             var fileSize = int.Parse(Console.ReadLine());
             //Resolution
             var width = int.Parse(Console.ReadLine());
