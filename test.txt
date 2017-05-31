@@ -2,6 +2,8 @@
 	height - 195
 	color - blue
 	email = georgi.ivanov@gmail.com
+	size = 200
+	email = gosho_ivanov@mailbg.com
 	number - 88895555785
 	town - Sofia
 	country- Bulgaria

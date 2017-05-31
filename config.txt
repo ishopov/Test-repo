@@ -3,4 +3,4 @@
 	email = peter.petrov@gmail.com
 	town - Sofia
 	country - Bulgaria
-	
+	email = peter@abv.bg
