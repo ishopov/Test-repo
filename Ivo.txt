@@ -2,3 +2,6 @@ Name: 			Ivo
 Town: 			Pleven
 Interests: 			Honda Motor Co.
 Why did I pick SoftUni? 	Because I want to become a C# Wizard!
+
+
+This text is changed with TortoiseGit!
