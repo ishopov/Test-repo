@@ -1,5 +1,5 @@
 	name = Peter
-	size = 100
+	size = 99
 	email = peter.petrov@gmail.com
 	town - Sofia
 	country - Bulgaria
