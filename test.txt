@@ -1,5 +1,7 @@
 	name = Georgi
-	size = 200
+	height - 195
+	color - blue
 	email = gosho_petkov@abv.bg
 	number - 88895555785
 	town - Sofia
+	country- Bulgaria
