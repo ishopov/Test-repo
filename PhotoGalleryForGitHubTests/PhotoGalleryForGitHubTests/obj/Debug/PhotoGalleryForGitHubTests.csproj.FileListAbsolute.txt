@@ -1,0 +1,2 @@
+C:\Users\r.novachkov\Source\Repos\Test-repo\PhotoGalleryForGitHubTests\PhotoGalleryForGitHubTests\bin\Debug\PhotoGalleryForGitHubTests.exe.config
+C:\Users\r.novachkov\Source\Repos\Test-repo2\PhotoGalleryForGitHubTests\PhotoGalleryForGitHubTests\bin\Debug\PhotoGalleryForGitHubTests.exe.config

@@ -1,0 +1,5 @@
+	name = Georgi
+	size = 200
+	email = gosho_petkov@abv.bg
+	number - 88895555785
+	town - Sofia
