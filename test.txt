@@ -1,7 +1,7 @@
 	name = Georgi
 	height - 195
 	color - blue
-	email = gosho_petkov@abv.bg
+	email = georgi.ivanov@gmail.com
 	number - 88895555785
 	town - Sofia
 	country- Bulgaria
